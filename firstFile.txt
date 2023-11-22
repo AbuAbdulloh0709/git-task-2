@@ -1,10 +1,13 @@
 this file includes 10 lines. 
-line
-line
+line changed 2
+line changed 2
 this line is updated in git_1 branch: 2
 this line is updated in git_1 branch: 2
 line
 line chnaged
 line changes
+line changed 3
+line
+line
 this line is updated in git_1 branch
 this line is also updated in git_1 branch
