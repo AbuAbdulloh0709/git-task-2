@@ -6,5 +6,5 @@ line
 line
 line
 line
-line
-line
+this line is updated in git_1 branch
+this line is also updated in git_1 branch
